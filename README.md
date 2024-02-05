@@ -13,6 +13,10 @@
     5. Python
     6. SQL
     7. MySQL
+
+## Estructuras carpetas
+
+ Carpetas
     
-
-
+* Nombre del lenguaje.
+    * Contenido
