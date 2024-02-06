@@ -13,6 +13,7 @@
     5. Python
     6. SQL
     7. MySQL
+    8. Git y GitHub
 
 ## Estructuras carpetas
 
