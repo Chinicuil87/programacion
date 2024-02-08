@@ -1,3 +1,12 @@
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 20%;"
+    src="img/piton.png" 
+    alt="Our logo">
+</img>
+
 #  Curso de Python.
 
 1. Entorno Virtual.
