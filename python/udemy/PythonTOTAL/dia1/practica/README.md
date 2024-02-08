@@ -27,6 +27,7 @@ Línea 3
 [Codigo](PracticaString1.py)
 
 # Práctica String 2
+
 Crea un código que imprima en pantalla la siguiente expresión.
 
 A	B	C
@@ -41,6 +42,7 @@ Notas:
 [Codigo](PracticaString2.py)
 
 # Práctica String 3
+
 Crea un código que imprima en pantalla la siguiente expresión:
 
 Barra Normal: /
@@ -48,3 +50,33 @@ Barra Invertida: \
 Aclaración: presta mucha atención al texto que debes reproducir, ya que errores ortográficos y de puntuación, espacios en blanco adicionales y saltos de línea innecesarios pueden ocasionar errores inesperados que no son detectados por el módulo de evaluación, devolviendo un error en tu ejercicio.
 
 [Codigo](PracticaString3.py)
+
+# Práctica Input 1
+
+Crea un código que le permita ingresar una respuesta al usuario, haciéndole la siguiente pregunta:
+
+¿Qué estás estudiando?
+
+El código debe poder imprimir en pantalla lo ingresado por el usuario (utilizando print).
+
+[Codigo](PracticaInput1.py)
+
+# Práctica Input 2
+
+Crea un código que le permita ingresar una respuesta al usuario, haciéndole la siguiente pregunta:
+
+¿En qué país vives?
+
+El código debe poder imprimir en pantalla lo ingresado por el usuario (utilizando print).
+
+[Codigo](PracticaInput2.py)
+
+# Práctica Input 3
+
+Crea un código que muestre en pantalla el nombre completo del usuario, permitiéndole ingresar su nombre y apellido con las siguientes instrucciones:
+
+Escribe tu nombre:
+Escribe tu apellido:
+El código debe poder imprimir en pantalla el nombre y apellido del usuario, separados por un espacio.
+
+[Codigo](PracticaInput3.py)

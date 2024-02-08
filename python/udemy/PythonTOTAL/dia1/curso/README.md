@@ -2,9 +2,9 @@
 
 Curso de Udemy Python Total por Federico Garay.
 
-## Mostrar en pantalla.
+## Print
 
-Utilizamos la palabra reservada de print para mostrar en pantalla y tiene el siguiente formato.
+    Es una funcion que nos permite mostrar en pantalla el contenido.
 
 > print("texto")
 
@@ -49,7 +49,7 @@ Se muestra en pantalla.
 
 ![alt text](img/concadenar.png)
 
-## Escape de texto.
+### Escape de texto.
 
 Utilizamos la barra invertida \ para realizar escapes de texto y estos puden ser.
 
@@ -77,5 +77,25 @@ print('Este signo \\ es una barra investida') # se utiliza doble barra invertida
 Se muestra en pantalla.
 
 ![alt text](img/escape.png)
+
+## input
+
+    Es una funcion que le permite al usuario introducir informacion.
+
+> input("texto de solicitud")
+
+    El input por si solo no muestra ni almacena informacion es por eso que debemos hacer uso de otras funciones.
+
+```python
+input("Dime tu nombre: ") # Espera a que el usuario introdusca y precione enter para finalizar o cuntunuar.
+
+print(input("Dime tu nombre: ")) # Muestra en pantalla lo que el usuario introduce.
+
+print("Tu nombre es " + input("Dime tu nombre: ") + " " + input("Dime tu apellido: ")) # Concadena lo que introduce el usuario con una cadena de texto.
+
+```
+Se muestra en pantalla: 
+
+![alt text](img/input.png)
 
 
