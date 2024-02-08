@@ -6,14 +6,15 @@
 
 ## Lenguajes o cursos.
 
-    1. Markdown
-    2. HTML
-    3. CSS
-    4. JavaScript
-    5. Python
-    6. SQL
-    7. MySQL
-    8. Git y GitHub
+1. Markdown
+2. HTML
+3. CSS
+4. JavaScript
+5. Python
+    * Comandos
+6. SQL
+7. MySQL
+8. Git y GitHub
 
 ## Estructuras carpetas
 
