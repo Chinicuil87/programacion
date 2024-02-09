@@ -46,6 +46,8 @@ Booleanos(bool) = Solo puede tener el valor de verdadero o falso, se usan para s
 
 Declaracion de variables.
 
+Las variables pueden contener cualquier tipo de datos.
+
 > <"nombre de la variable"> = <"Valor asignado">
 
 ``` py
@@ -75,7 +77,7 @@ alfabeto = ['a','b','c']
 
 ```
 
-A las varaible se les puede cambiar su valor surante la ejecucion. 
+A las varaible se les puede cambiar su valor durante la ejecucion. 
 
 ```py
 
@@ -102,7 +104,7 @@ numero2 = 15
 print(numero1+numero2)
 
 ```
-Se muestra en pnatalla.
+Se muestra en pantalla.
 
 ![alt text](img/suma.png)
 
@@ -120,3 +122,16 @@ print(nombre)
 Se mostrara en pantalla.
 
 ![alt text](img/ninput.png)
+
+Las variables tambien pueden contener operaciones y almacenar el resultado.
+
+```py
+edad = 15
+edad2 = 20
+sumaedad = edad + edad2
+
+print(sumaedad)
+```
+Se mostrara en pantalla.
+
+![alt text](img/sedad.png)
