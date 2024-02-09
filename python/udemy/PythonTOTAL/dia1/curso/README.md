@@ -1,7 +1,5 @@
 # Dia 1 
 
-Curso de Udemy Python Total por Federico Garay.
-
 ## Print
 
     Es una funcion que nos permite mostrar en pantalla el contenido.
