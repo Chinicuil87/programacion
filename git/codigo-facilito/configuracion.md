@@ -59,4 +59,3 @@
 > ssh -T git@github.com
 
 ![alt text](img/image-6.png)
-e
