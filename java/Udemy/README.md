@@ -9,7 +9,9 @@ Andrés Guzmán
 3. [Reglas de variables](src/ReglasVariables.java)
 4. [Numeros primitivos](src/NumerosPrimitivos.java)
 
-    * [Enteros primitivos](src/PrimitivosEnteros.java)
+    * [Primitivos enteros](src/PrimitivosEnteros.java)
+    * [Primitivos de punto flotante](src/FlotantesPrimitivos.java)
+    * [Primitivos Char](src/CharPrimitivos.java)
 
 
 
