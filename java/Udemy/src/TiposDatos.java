@@ -20,7 +20,21 @@ public class TiposDatos {
 
         Integer numero1 = 20; // declaracion de variable numero que si contiene metodos.
         System.out.println(numero1.floatValue());
-        
 
+        boolean valor = true;
+        if (valor){
+            System.out.println("Hola");
+        }
+        
+        int numero2 = 5;
+        if (valor){
+            System.out.println(numero2);
+            numero2 = 10;
+        }
+
+        System.out.println(numero2);
+
+        var numero3 = 15; // var es de tipo flexible 
+        
     }
 }
