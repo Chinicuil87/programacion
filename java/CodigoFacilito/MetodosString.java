@@ -29,6 +29,8 @@ public class MetodosString {
         float valor = 10.872040f;
         nuevoMensaje = String.format("%.2f", valor);
         System.out.println(nuevoMensaje);
+        nuevoMensaje = String.format("El total es %.4f %s", valor, "MX");
+        System.out.println(nuevoMensaje);
 
     }
     
