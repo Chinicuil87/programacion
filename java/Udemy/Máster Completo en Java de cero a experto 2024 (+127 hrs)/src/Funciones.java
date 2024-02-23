@@ -17,4 +17,8 @@ public class Funciones {
         System.out.println(resultado);
 
     }
+
+    static int Suma(numero1, numero2){
+        return numero1 + numero2;
+    }
 }
