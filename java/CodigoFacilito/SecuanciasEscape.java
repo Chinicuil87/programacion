@@ -10,8 +10,8 @@ public class SecuanciasEscape {
         \'. Comillas simples.
          */
 
-        System.out.print("Hola,\nagregamos un salto");
-        System.out.print("\tagregamos un tab");
+        System.out.print("Hola,\n agregamos un salto");
+        System.out.print("\t agregamos un tab");
         System.out.println("");
 
         System.out.println("Mensaje con \\ diagonal inversa");
