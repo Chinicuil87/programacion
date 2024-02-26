@@ -10,7 +10,7 @@ public class elseif {
                    System.out.println("Puede continuar");
                } else if (colorLuz.equals("Amarillo")){
                     System.out.println("Alto parcial");
-               } else if(colorLuz.equals("Rojo")){
+                } else if(colorLuz.equals("Rojo")){
                    System.out.println("Alto total");
                } else{ 
                     System.out.println("Semaforo no sirve");
