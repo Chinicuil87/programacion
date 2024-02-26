@@ -17,11 +17,13 @@
 *****
 ******
 5. Replicar la siguiente salida en consola.
+ """
      *
     ***
    *****
   *******
  *********
+ """
 Ayuda: Podrás apoyarte de ciclos anidados así como de los métodos println y print
 
 Imprimir en consola los primero diez números de la serie Fibonacci.
