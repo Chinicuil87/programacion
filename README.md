@@ -9,7 +9,7 @@ Este se dividirá en apartados conforme se vayan tomando los cursos y a su vez e
 1. [Markdown](markdown)
 2. HTML Proximo
 3. CSS Proximo
-4. JavaScript
+4. JavaScript Proximo
 5. [Python](python)
     * Comandos
 6. SQL
