@@ -7,7 +7,7 @@ Este se dividirá en apartados conforme se vayan tomando los cursos y a su vez e
 ## Lenguajes o cursos.
 
 1. [Markdown](markdown)
-2. HTML
+2. HTML Proximo
 3. CSS
 4. JavaScript
 5. [Python](python)
