@@ -135,3 +135,41 @@ print(sumaedad)
 Se mostrara en pantalla.
 
 ![alt text](img/sedad.png)
+
+## Nombre de variables.
+
+1. Legible (nombrePerro);
+2. Descriptivo 
+3. No usar espacios
+4. En minuscuñlas
+5. No usar ñ
+6. No usar numero al inicio.
+7. No usar gignos !">#$%&/()=?¡
+8. No usar palabras reservadas
+
+Malas practicas.
+
+[X] mi perro  
+[X] 1numero  
+[X] nombre_niño  
+[X] p@r!
+
+Buenas practicas.
+
+mi_perrro  
+numero1  
+nombre_infante  
+pera   
+
+## type
+
+    Funcion que nos permite saber el tipo de dato al que pertenece la variable.
+
+```  py
+mi_numero = 1    # se le asigna el valor 1 a la variable mi numero.
+print(mi_numero)
+
+print(type(mi_numero)) # muestra el tipo de variable 
+```
+![alt text](img/type.png)
+
